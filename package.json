@@ -1,0 +1,1 @@
+{ "dependencies": { "@trpc/client": "^10.43.0", "@trpc/server": "^10.43.0", "zod": "^3.22.4" } }
